@@ -5,7 +5,7 @@ Program ini dibuat untuk mempercepat dan mempermudah proses compiling saat prakt
 Dengan program ini, kita tidak perlu mengetik satu per satu proses compiling, namun hanya cukup run file compile yang ada di sini.
 
 ## Cara Penggunaan
-1. Dengan browser yang ada di Xinu, kunjungi github.com/Wika2021/XinuAutoCompile
+1. Dengan browser yang ada di Xinu, kunjungi [github.com/Wika2021/XinuAutoCompile](https://github.com/johnw1llliam/Xinu_Auto_Compile/edit/main/README.md)
 2. Buka file compile.sh
 3. Copy isi text yang ada di compile.sh
 4. Buka terminal di Xinu, lalu ketik command : touch compile
