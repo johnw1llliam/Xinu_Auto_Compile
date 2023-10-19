@@ -1,4 +1,4 @@
-# XinuAutocompile
+# Xinu_Auto_Compile
 
 ## Overview
 Program ini dibuat untuk mempercepat dan mempermudah proses compiling saat praktikum Sistem Operasi menggunakan Xinu.
